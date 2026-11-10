@@ -1,0 +1,22 @@
+Products=[
+  {"id": 1, "name": "Laptop", "title": "HP Pavilion", "count": 10, "price": 55000},
+  {"id": 2, "name": "Mobile", "title": "Samsung Galaxy S24", "count": 15, "price": 45000},
+  {"id": 3, "name": "Headphones", "title": "Sony WH-1000XM5", "count": 8, "price": 25000},
+  {"id": 4, "name": "Keyboard", "title": "Logitech K380", "count": 20, "price": 2500},
+  {"id": 5, "name": "Mouse", "title": "Logitech MX Master", "count": 12, "price": 7500},
+  {"id": 6, "name": "Monitor", "title": "Dell UltraSharp", "count": 6, "price": 22000},
+  {"id": 7, "name": "Tablet", "title": "iPad Air", "count": 9, "price": 60000},
+  {"id": 8, "name": "Smartwatch", "title": "Apple Watch SE", "count": 11, "price": 28000},
+  {"id": 9, "name": "Camera", "title": "Canon EOS 1500D", "count": 5, "price": 35000},
+  {"id": 10, "name": "Speaker", "title": "JBL Flip 6", "count": 14, "price": 11000},
+  {"id": 11, "name": "Charger", "title": "Samsung 45W Charger", "count": 25, "price": 1800},
+  {"id": 12, "name": "Power Bank", "title": "Mi Power Bank 20000mAh", "count": 18, "price": 2200},
+  {"id": 13, "name": "Printer", "title": "HP LaserJet", "count": 4, "price": 18000},
+  {"id": 14, "name": "Router", "title": "TP-Link Archer C6", "count": 7, "price": 3200},
+  {"id": 15, "name": "SSD", "title": "Samsung 1TB SSD", "count": 13, "price": 8500},
+  {"id": 16, "name": "RAM", "title": "Corsair 16GB DDR4", "count": 16, "price": 4200},
+  {"id": 17, "name": "Microphone", "title": "Blue Yeti", "count": 6, "price": 12500},
+  {"id": 18, "name": "Webcam", "title": "Logitech C920", "count": 10, "price": 6500},
+  {"id": 19, "name": "Gaming Chair", "title": "Green Soul Monster", "count": 3, "price": 14000},
+  {"id": 20, "name": "USB Drive", "title": "SanDisk 128GB", "count": 30, "price": 1200}
+]
